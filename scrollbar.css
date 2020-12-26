@@ -1,0 +1,17 @@
+    body {
+      background-color: rgba(3, 169, 244, 0.1);
+    }
+
+    #container {
+      background-color: rgb(255, 255, 255);
+      height: 400px;
+      width: 100%;
+      overflow: auto;
+      margin: 100px auto;
+      position: relative;
+    }
+
+    .entryPlaceholder {
+      height: 48px;
+      width: 100%;
+    }
